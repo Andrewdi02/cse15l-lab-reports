@@ -4,8 +4,11 @@
 
 ## Second Part
 [Link to the class website](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home?authuser=0)
+
 ![Image](http://url/a.png)
+
 > Interesting
+
 * number 1
 * number 2
 * number 3
