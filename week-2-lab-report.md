@@ -22,8 +22,7 @@ If a page like the one above shows up you are good to continue to the following 
 
 If you are working on a Windows computer, installing [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) is necessary in order to connect your computer to other computers. Click the hyperlink and proceed with the instructions. 
 
-We are required to also use our course-specific account for CSE15L so click the following link:
-https://sdacs.ucsd.edu/~icc/index.php
+We are required to also use our course-specific account for CSE15L so click the following link to access it: [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 
 ![Lookup](lookup.png)
 
