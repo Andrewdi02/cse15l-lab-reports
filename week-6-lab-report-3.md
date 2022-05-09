@@ -43,3 +43,4 @@
 - Combination of all the commands on one line
 
 ![oneline](multiple.png)
+![oneline2](multiple2.png)
